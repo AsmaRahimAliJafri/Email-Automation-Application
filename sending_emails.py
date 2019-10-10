@@ -13,9 +13,9 @@ just_emails_series = csv_file['CONTACT']
 
 
 
-sender_email = "asmarahim441@gmail.com"
-sender_pass = "SONNYwithachance441"
-# receiver_email = "asmarahim441@gmail.com"
+sender_email = "m"
+sender_pass = ""
+
 subject = 'Software Engineering Intern Application'
 email_body = "Hello"+"\n\n"+"I am an undergraduate of NED University, applying for the position of a software engineering intern at your company."+"\n\n"+"I have attached my resume and cover letter to this email.\nPlease feel free to reach out to me if you have questions or information, through email or via the phone number below."+"\n\n"+"Regards,\nAsma Rahim\n0336-2908687"
 cv = 'Asma_Rahim Ali Jafri_2018_resume.pdf'
